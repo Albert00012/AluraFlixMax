@@ -1,0 +1,30 @@
+{ "categorias":[
+    {
+      "id": 1,
+      "nombre": "Front End",
+      "color": "#E50000"
+    },
+    {
+      "id": 2,
+      "nombre": "Back End",
+      "color": "#00C86F"
+    },
+    {
+      "id": 3,
+      "nombre": "Innovacion y Gestion",
+      "color": "#FFBA05"
+    },
+    {
+      "id": 4,
+      "nombre": "Data Science",
+      "color": "#AA00FF"
+    },
+    {
+      "id": 5,
+      "nombre": "Autos",
+      "color": "#6BD1FF"
+    }
+  ]
+}
+
+
